@@ -1,0 +1,9 @@
+name: KnockIt
+version: 1.0
+author: Delta203
+
+main: de.knockit.delta203.plugin.KnockIt
+
+commmands:
+  knockit:
+  stats:
